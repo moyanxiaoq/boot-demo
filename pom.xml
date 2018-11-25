@@ -20,6 +20,7 @@
 	<!--子模块-->
 	<modules>
 		<module>swagger-online</module>
+		<module>swagger-offline</module>
 	</modules>
 
 	<dependencies>
